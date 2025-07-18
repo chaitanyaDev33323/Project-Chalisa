@@ -1,0 +1,27 @@
+body {
+  font-family: sans-serif;
+  background-color: #fffaf0;
+  color: #333;
+  margin: 0;
+  padding: 0;
+  line-height: 1.8;
+}
+
+.container {
+  max-width: 800px;
+  margin: 50px auto;
+  padding: 20px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 45px;
+  color: #b22222;
+  margin-bottom: 40px;
+}
+
+.chalisa {
+  text-align: left;
+  white-space: pre-wrap;
+  font-size: 16px;
+}
