@@ -56,3 +56,8 @@ h1 {
 .choupai {
   font-weight: bold;
 }
+
+.para-hov:hover {
+  font-weight: bold;
+  font-size: 30px;
+}
