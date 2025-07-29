@@ -15,7 +15,7 @@ body {
 }
 
 h1 {
-  font-size: 60px;
+  font-size: 70px;
   color: #ff0000;
   margin-bottom: 40px;
 }
@@ -58,6 +58,7 @@ h1 {
 }
 
 .para-hov:hover {
+  cursor: zoom-in;
   font-weight: bold;
   font-size: 30px;
 }

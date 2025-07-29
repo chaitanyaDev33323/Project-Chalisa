@@ -9,10 +9,10 @@ body {
 }
 
 .heading {
-  font-size: 60px;
+  font-size: 75px;
   margin-bottom: 40px;
   color: white;
-  background-color: rgb(71, 71, 71);
+  background-color: rgb(194, 64, 4);
   border-radius: 15px;
   width: fit-content;
   margin-left: auto;

@@ -16,7 +16,7 @@ body {
 
 h1 {
   font-size: 70px;
-  color: #003cff;
+  color: #2600ff;
   margin-bottom: 40px;
 }
 
@@ -36,7 +36,7 @@ h1 {
   height: 100%;
   object-fit: cover; /*To Maintain aspect ratio*/
   z-index: -1; /*To keep image behind your text*/
-  opacity: 0.65;
+  opacity: 0.5;
 }
 
 .container {
@@ -56,6 +56,7 @@ h1 {
 .choupai {
   font-weight: bold;
 }
+
 .para-hov:hover {
   cursor: zoom-in;
   font-weight: bold;
